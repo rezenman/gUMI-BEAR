@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#how many illumina samples do we have
+samples=17
+path_to_int_index="/home/labs/bfreich/shaharr/NovaSeq_300621/one_script/new_umi_handle_try/aux_internal_indexes.csv"
+initial_Seeds="/home/labs/bfreich/shaharr/NovaSeq_300621/one_script/new_umi_handle_try/aux_initial_Seeds.txt"
+samples_to_cluster="/home/labs/bfreich/shaharr/NovaSeq_300621/one_script/new_umi_handle_try/aux_samples_to_cluster"
+
