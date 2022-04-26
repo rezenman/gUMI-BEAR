@@ -7,3 +7,5 @@ Here you can find all scripts related to the gUMI-BEAR paper
 
 4. All samples could be analyzed using Grand_script_part1.sh and Grand_script_part2.sh - and they should be run sequentially.
 The last script - Grand_script3.sh is specific for every experiment you want to analyze, and as such also the aux files used with the script.
+
+##This is an addition done only on the feature-readme branch
